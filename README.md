@@ -1,3 +1,13 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Hector Paixão de Faria
-### I'm looking to start in the technology field, specifically in the Back-end area.
+# 👋 Olá! Bem-vindo ao meu perfil no Github.
+## Meu nome é Hector Paixão de Faria
+### Estou buscando iniciar na área de tecnologia, especificamente na área de Back-end.
+
+#### Ainda estou construindo um portfólio, mas tenho a área na qual que quero desenvolver.
+Minhas tecnologias e ferramentas são:
+
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
+            
+          
